@@ -1,5 +1,7 @@
 # Configuration Management
 
+[![Join the chat at https://gitter.im/usernamenumber/configuration](https://badges.gitter.im/usernamenumber/configuration.svg)](https://gitter.im/usernamenumber/configuration?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Introduction
 
 The goal of the edx/configuration project is to provide a simple, but
